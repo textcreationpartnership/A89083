@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fidelity, obedience, and valour of the English-nation, declared, by way of pacification of His Majesty, and desire of a re-union between His Majesty and the Parliament. As also, that the present forces now ready to bicker here in England may be turn'd to revenge the losse of the Protestants blood in Ireland, shed by those babarous Irish rebels. / Written by Walter Meredith. Gent.</title>
+            <author>Meredith, Walter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89083</idno>
+            <idno type="STC">Wing M1785</idno>
+            <idno type="STC">Thomason E109_8</idno>
+            <idno type="STC">ESTC R7077</idno>
+            <idno type="EEBO-CITATION">99873080</idno>
+            <idno type="PROQUEST">99873080</idno>
+            <idno type="VID">125534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125534)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fidelity, obedience, and valour of the English-nation, declared, by way of pacification of His Majesty, and desire of a re-union between His Majesty and the Parliament. As also, that the present forces now ready to bicker here in England may be turn'd to revenge the losse of the Protestants blood in Ireland, shed by those babarous Irish rebels. / Written by Walter Meredith. Gent.</title>
+                  <author>Meredith, Walter.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125534:1" rendition="simple:additions"/>
+            <p>THE Fidelity, Obedience, and Valour Of the ENGLISH-NATION, DECLARED, By way of Pacification of His <hi>Majeſty,</hi> and deſire of a re-union between His <hi>Majeſty</hi> and the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>As alſo,</hi> That the preſent Forces now ready to bicker here in <hi>England</hi> may be turn'd to revenge the loſſe of the Proteſtants blood in <hi>Ireland,</hi> ſhed by thoſe barbarous <hi>Iriſh Rebels.</hi>
+            </p>
+            <p>Written by <hi>Walter Meredith.</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Griffin.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125534:2"/>
+            <pb facs="tcp:125534:2"/>
+            <head>The Fidelity, Obedience, and Valour of the Engliſh NATION.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Drew my breath firſt in the happy raigne of that moſt famous and unparaleld Queen <hi>Elizabeth,</hi> be<g ref="char:EOLhyphen"/>tween whom and her people there was ſo ſweet a harmony of Con<g ref="char:EOLhyphen"/>cord (above foure and forty yeers together) as well by the peoples obedience to Her in admitting of Her juſt Preroga<g ref="char:EOLhyphen"/>tives, and ſhe again not trampling on their Liberties and Priviledges, that the whole World admired at their unity.</p>
+            <p>Out of that heavenly unity, the <hi>Engliſh</hi> Nation, who were naturally valiant and active, (and indeed her times produced great and Noble Actions) were kept from ſloth and idleneſſe, for what with her Majeſties aſſiſting the French King in his Civill warre, her re<g ref="char:EOLhyphen"/>leeving the States of <hi>Holland</hi> againſt <hi>Spaines</hi> tyranny, Her wraſtling in <hi>Ireland,</hi> to civilize and ſuppreſſe thoſe notorious and barbarous Rebels, and the many
+<pb facs="tcp:125534:3"/>voyages made out of this Kingdome to unknowne parts of the world, the Engliſh were ſo imployed (and ſo well they managed their imployment) that they brought home to their Prince Glory and Ho<g ref="char:EOLhyphen"/>nour, and to themſelves Renown and Riches.</p>
+            <p>It pleaſed God I lived to ſee the period of Her Raigne, after whoſe death ſome great change (be<g ref="char:EOLhyphen"/>cauſe it was not vulgarly known who ſhould be her Succeſſor) was much feared, and expected. But ſee the mercy of God, a bright Starre from the North appeared, that enlghtned this Kingdome, and dried up the Teares of ſorrow, which were ſhed for Her loſſe, and filled our hearts with joy, by ſending us a King for a Queen, nay, a King of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, a <hi>Salomon</hi> for Wiſedome, King <hi>James</hi> the bleſſed father of our now Royall Soveraigne Lord King <hi>Charles,</hi> He brought with Him another King<g ref="char:EOLhyphen"/>dom, <hi>Scotland,</hi> and ſo had his temples circumferen<g ref="char:EOLhyphen"/>ced with three Crownes, and as <hi>Henry</hi> the ſeventh His grandfather joyn'd the Roſes, ſo this <hi>James</hi> joyn'd the Kingdomes in union.</p>
+            <p>At ſuch time, as it pleaſed God to call Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> to the reſignation of Her Crowns here, and to receive a Crown of Immortality in Heaven, an Eng<g ref="char:EOLhyphen"/>liſh Gentleman and friend of mine was then in <hi>Paris,</hi> and accidently happend to be in the French Kings Court, when newes was brought of Her Majeſties death the King being at dinner<g ref="char:punc">▪</g> one of His Gentle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> waited at His Table, told His Majeſty, he had received Letters out of <hi>England,</hi> that Queen <hi>Elizabeth</hi> had finiſhed her daies; at which the King <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and demanded who ſucceeded Her? the
+<pb facs="tcp:125534:3"/>Gentleman told him, that <hi>James</hi> the ſixth King of <hi>Scotland</hi> was proclaimed King, and ſetled in Her Throane, and with that produced the Proclamation; which the French King reading, and muſing there<g ref="char:EOLhyphen"/>upon, ſuddenly brake forth into a paſſion of admi<g ref="char:EOLhyphen"/>ration, and clapping his hand on the Table ſaid, Is it poſſible that the King of <hi>Scotland</hi> ſhould come to the Crown of <hi>England,</hi> and not one box of the eare given for it? The Gentleman made him this anſwer, Yes ſir, His acceſſe to the Crown was with ſo ſweet and generall applauſe, that it might well have been thought, there had never been enmity between the two Kingdomes; whereupon the King advancing himſelfe from his Chaire, ſwore a great oath, That King <hi>Iames</hi> was the happieſt King in the World, for that he was become King of a people (meaning the Engliſh) who were the moſt faithfull and obedient in the time of Peace, and the moſt valiant in time of Warre.</p>
+            <p>Theſe vertues <hi>Henry</hi> the fourth, that magnani<g ref="char:EOLhyphen"/>mous French King was pleaſed to attribute to the Engliſh Nation, out of gratitude to them who had aſſiſted him in his warre, and had ſhewen themſelves brave men on his part. Certainly, he himſelfe was a valiant man, and therefore loved valour in others; and as he commended their valour, he forgot not their fidelity and obedience to their Prince, the Queen, in preſerving Her (under God) often, from the hands of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe bloody miniſters, whom the Pope and <hi>Spaine</hi> had appointed, and corrupted to deſtroy Her. Great pity it was ſo brave a Prince as he was, had not the like obedience and fidelity in His Sub<g ref="char:EOLhyphen"/>jects,
+<pb facs="tcp:125534:4"/>the want whereof brought him to an untimely end, for he was by that paracide <hi>Raviliack</hi> murthe<g ref="char:EOLhyphen"/>red, by a ſtab at his heart, paſſing in his Coach through a ſtreet in <hi>Paris</hi> at noon-day.</p>
+            <p>Our good King <hi>James</hi> much lamented his death, and ſo did all good men of the Proteſtant Religion, of which it was thought he was one, but for ſome worldly reſpects durſt not profeſſe it openly, which ſome attribute an errour in him, of deſſembling with God, who therefore ſuffered him to end his daies by violence.</p>
+            <p>King <hi>Iames</hi> was no diſſembler, for he profeſſed the true proteſtant Religion, and maintained it with His Pen, witneſſe His Apologie to all Chriſtian Prin<g ref="char:EOLhyphen"/>ces, and other excellent bookes of His, which are His living Monuments, He was a peaceable Prince, He kept warre out of His Dominions, when all the Princes of the World beſides were in Combuſtion; ſuch was His gentle nature, that he choſe rather to ſpend a maſſe of money in Embaſſies and treaties for peace amongſt forraigne Princes (to ſave the effu<g ref="char:EOLhyphen"/>ſion of Chriſtian blood) then with His Sword to ſide with any of them.</p>
+            <p>This kept him from having enemies abroad, and He is to be accounted famous for it; but had He drawn His ſword in ſome actions (as without ſcruple of Conſcience, he might juſtly have done, in that of the Palatinate) the Engliſh Nation had not ſo long (like blades ſtill kept ſheath'd) ruſted in their ſcab<g ref="char:EOLhyphen"/>berds; for to ſay truth, they were grown weake and effeminat for lacke of imployment, but that was not altogether the peoples fault, for had they been per<g ref="char:EOLhyphen"/>mitted
+<pb facs="tcp:125534:4"/>(as in Queen <hi>Elizabeths</hi> time they were) free<g ref="char:EOLhyphen"/>ly to make voyages into all forraine parts of the World where they liſt, upon diſcoveries, or to trade, both they had preſerved their vigour and ſtrength, and this Iland had been inriched more than it is, but they were prevented of this good by a late tricke of binding up the trade and trafique into forraine parts in parchment, the free ſubject cannot trade beyond ſeas for himſelfe, unleſſe he be free of ſuch and ſuch a Company, which hath been a meanes that Noble<g ref="char:EOLhyphen"/>men and Gentlemens younger ſonnes have kept home, liv'd idlely and effeminately, and ſo ruined their fortunes, when they might have done their Prince and Countrey good ſervice, and gotten to themſelves honour, knowledge and wealth.</p>
+            <p>Queen <hi>Elizabeth</hi> and King <hi>Iames</hi> both had the wiſdomes and happineſſe to keep the Woolfe from their owne doores, and to live in great peace and tranquility, within themſelves. Next to the bleſ<g ref="char:EOLhyphen"/>ſing of God, I muſt attribute that happineſſe to the Accord of Soveraigne and Subject, (woe be to them that have now cauſed a diſcord.) And that bleſſing God gave for the great care both Princes and peo<g ref="char:EOLhyphen"/>ple had to Religion, and cleering the true light of the Goſpell out of the miſts and darke clouds of po<g ref="char:EOLhyphen"/>pery and ſuperſtition. And in thoſe times, I muſt tell you, I obſerved thoſe Venerable and Reverend Fathers of the Church whoſe Name and Title is now deſpiſed, (I meane the Biſhops) were great actors and inſtruments in the practice of piety and preaching.</p>
+            <p>It was then frequent with the Biſhops to preach
+<pb facs="tcp:125534:5"/>at the Court, <hi>Pauls</hi>-Croſſe, Spittle, nay and in pri<g ref="char:EOLhyphen"/>vate Pariſh-Churches, at ſuch time, as either they were called to Parliaments, or had other buſineſſe in <hi>London;</hi> and from their lips the people ſuckt both Milke and Honey, ſo that then there was as much running and crowding to heare a Biſhop preach, as now there is to heare ſuch as would abo<g ref="char:EOLhyphen"/>liſh our Common-prayer-booke, and make men beleeve the Lords Prayer is not to be uſed. Some of thoſe reverend Fathers are ſtill living, and thoſe that are dead, live in their workes which they have left to poſterity, as monuments of their learning and vertues.</p>
+            <p>
+               <hi>England</hi> then received much delight and comfort by their ſound and orthodox doctrine, for as then I muſt tell you thoſe Biſhops did not in Pulpits either blow up the Princes Prerogative, nor infringe the Subjects priviledges, neither did they teach any ſe<g ref="char:EOLhyphen"/>ditious doctrine, no, their Sermons were inſtructi<g ref="char:EOLhyphen"/>ons of a good life and converſation, to do good and eſchew evill, mingling mercy with juſtice, and ſet<g ref="char:EOLhyphen"/>ting forth the rewards of righteouſneſſe, and the puniſhments of vices and wickedneſſe. They ſpared not at Court to teach good government, and abroad to inſtruct the people in obedience to that govern<g ref="char:EOLhyphen"/>ment. They were valiant Champions for Chriſt, and ſtood ſtoutly out for the maintenance of the truth of the holy Goſpell, and as their Texts ſerved, they never came out of (their ſtand) the Pulpit, before they had given Popiſh doctrine ſuch wounds, as all their papiſticall Holy-water mixt with the Milke of <hi>Mary,</hi> could never yet cure, nor will ſo long as the
+<pb facs="tcp:125534:5"/>Pope claims the ſupremacy Eccleſiaſticall out of his own Dioces. But of late (with griefe of heart I ſpeake it) ſome of that venerable and holy calling, by parti<g ref="char:EOLhyphen"/>cipating too much with temporall affaires of ſtate, as too ambitious of Lordly titles and dignities, which withdrew them from the true exerciſe of their pa<g ref="char:EOLhyphen"/>ſtorall Calling, and in their Prelaticall government uſed too much auſterity, introducing aboliſht cere<g ref="char:EOLhyphen"/>monies, and preſſing the uſe of them too hard upon nice conſciences, and ſo failing to purſue the good preſidents of their predeceſſors, have drawne upon themſelves, and that holy Calling, ſcandall and contempt.</p>
+            <p>And ſince by chance I have toucht upon the word Ceremony, I cannot but grieve, that now, ſome ſo ſtrive to have no Ceremonies uſed about the ſer<g ref="char:EOLhyphen"/>vice of God, that they would alſo baniſh all decency and ſeemly geſture of reverence and honour in the performance of our duty and ſervice to the Majeſty of Heaven. Theſe men looke for reverence to be done to themſelves, and yet they will deny it unto God; for which of them would not think his ſervant a ſawcy companion to wait at his Table, or come to require ſomething at his hands with his cap on his head? ſhall we then be ruled by ſuch? No, let others do as they will, the ſaving Name of Jeſus ſhall have my reverence, whilſt I have an Eare to heare, and a Knee to bow. And as at the rehearſal of the Creed (in ancient times) the people ſtood up, and every man drew his Sword, intimating thereby they would de<g ref="char:EOLhyphen"/>fend their faith with their lives, I hold that ſtanding up ſo excellent a poſture that I will uſe it alſo when<g ref="char:EOLhyphen"/>ever
+<pb facs="tcp:125534:6"/>I heare, <hi>Glory be to the Father, and to the Son, and to the holy Ghoſt</hi> pronounced.</p>
+            <p>The preſent troubles of the times with us here in <hi>England</hi> doe much amaze me, and thoſe troubles have brought to my memory the attributes given to the Engliſh Nation (by <hi>Henry</hi> the fourth of <hi>France</hi>) of valiant, faithfull and obedient people; there was never a more fit time to ſhew theſe vertues then now. For conſider well between whom the preſent diſtractions in <hi>England</hi> are, Is it not between Sove<g ref="char:EOLhyphen"/>raign and Subject? Whats the cauſe? a miſ-underſtan<g ref="char:EOLhyphen"/>ding between His Majeſty &amp; the Parliament. Is the fault in His Majeſty, or the Parliament? I ſay in nei<g ref="char:EOLhyphen"/>ther, for under Heaven there is not a ſweeter Prince of nature and diſpoſition; nor ever was there a more faithfull &amp; wiſe Councell aſſembled in Parliament. Sure there are ſome <hi>Achitophels</hi> in <hi>England,</hi> that un<g ref="char:EOLhyphen"/>der hand have incenced His Majeſty and made him angry, it behooves us Subjects to beware, for the anger of a King is like the roaring of a Lyon, and the raging of many waters. But I hope my Lord the King will neither ſhew the fury of the one, nor the mercileſneſſe of the other upon His Subjects; and that His Majeſty may be the better appeaſed let us all like true hearted Engliſh men (as we are) ſhew our obedience and fidelity to His Majeſty and Par<g ref="char:EOLhyphen"/>liament, they cannot, muſt not, ought not to be ſe<g ref="char:EOLhyphen"/>parated; for they that profeſſe themſelves ſingly for the King, with an intention to ſet a ſeparation be<g ref="char:EOLhyphen"/>tween Him and His Parliament, are but meere Syco<g ref="char:EOLhyphen"/>phants, and for the time doe but flatter for their own ends; let the King come to any diſtreſſe (which
+<pb facs="tcp:125534:6"/>God forbid) he ſhall ſoone finde them like vermin ſteale from him. And they that are only for the Par<g ref="char:EOLhyphen"/>liament exempting the King are fooles that dote upon a body without a head; God hath joynd them, let no man ſeparate them.</p>
+            <p>But woe is me, what doe I ſee? great preparation for battaile: with whom? even with our ſelves; if God prevent it not, our Engliſh Nation is at the point of deſtroying one another, when all the force of forraigne Princes from abroad could never pre<g ref="char:EOLhyphen"/>vaile to do it.</p>
+            <p>Oh where are our reverend Divines to ſtand in the gap for us? Have we not one Father of the Church left to intercede between the King and us his Subjects, as <hi>Abraham</hi> did with God for ſinfull <hi>Sodom</hi> and <hi>Gomorah,</hi> and ſay, wilt thou ſlay the righteous with the wicked?</p>
+            <p>Let not my Lord the King be angry if I put Him in mind of the day of His returne from <hi>Spaine,</hi> I re<g ref="char:EOLhyphen"/>member it was a day of much raine, but I conceive the Heavens wept for joy; however I am ſure, there was ſuch an expreſſion of love to him, by all true Engliſh Proteſtants, man woman and child, that I have never ſeen heard or read of the like in <hi>England;</hi> the Bels in ſteeples chaunted, the flames of Bonfires aſcended even to the region of fire, and the people ſo feaſted themſelves, that I can witneſſe for one little Village within five miles of <hi>London,</hi> where I then was, there was not any from the age of ten to three<g ref="char:EOLhyphen"/>ſcore, but at night after their mirth and jovialty all the day in the wet without, that went to bed dry within for very joy, the then Prince, our hopes, and
+<pb facs="tcp:125534:7"/>now our Soveraigne Lord the King, was ſafely re<g ref="char:EOLhyphen"/>turned amongſt us. And as for the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the places adjacent thereunto, they began their Chriſmas then, and never ended their mirth and joy for having their Prince again, till Lent came that they muſt make themſelves apt by prayer and faſting to condole the ſorrows of our Sa<g ref="char:EOLhyphen"/>viours ſufferings for our ſins.</p>
+            <p>All this joy (I confeſſe) was but our duties, and I hope my gracious Lord the King, like to Almighty God (whoſe Vicegerent over us here on earth he is) will accept it graciouſly, though it were our duties, and remember it proceeded out of a faithfull and cordiall love to him, and remembring it now in his greateſt anger, may alay his wrath, and move him to love and imbrace us like a loving and graci<g ref="char:EOLhyphen"/>ous Soveraigne. And then he ſhall ſee the fidelity and obedience of the Engliſh Nation towards him is not one jot abated, but much encreaſed for His honour and ſafety. Oh royall Soveraigne try, and if it prove not ſo, hang me up for a lyer.</p>
+            <p>And let not my Lord the King be angry with me for ſpeaking this one time, for I ſpeake out of the aboundant deſire of my heart to preſerve my King and Countrey from deſtruction. I have hitherto ob<g ref="char:EOLhyphen"/>ſerved Gods wonderfull preſervation of His Majeſty and this Kingdome, and that God hath done by us as our Saviour did in the Goſpell, when he cured the blind man, by applying that to reſtore his ſight, which (to mans ſence) would have put out his eyes, Spitle and Clay; ſo by contrary meanes, God hath wrought honour to our King, and happineſſe
+<pb facs="tcp:125534:7"/>to our Nation. I thus apply it, the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> lately iſſued forth an Army upon us, and His Majeſty (offended at it) raiſed a Counter-Army here againſt them, there wanted nothing but to charge the onſet: then ſee the wonders of the Lord, the Engliſh continuing ſtil their love and obedience, petitions the King for admittance of a treaty, He heard them, and by Gods bleſſing an everlaſting peace (we hope) between us and that Nation was confirmed. So that as it is truly ſaid, <hi>Henry</hi> joynd the Roſes, and <hi>Iames</hi> the Kingdoms, I may juſtly ſay that <hi>Charles</hi> hath joynd the hearts; So that what was left unperfected by His Royall Father, is now perfe<g ref="char:EOLhyphen"/>cted by him. Glory be to God, and honour to His Majeſty for the ſame.</p>
+            <p>Here are now our weapons drawn, ſhall we ſheath them in our own bowels (God forbid) upon the ben<g ref="char:EOLhyphen"/>ded knees of my heart, I beſeech God His Majeſty will daigne to accord and hearken to His Councell the Parliament in this conteſt, as he did to his Eng<g ref="char:EOLhyphen"/>liſh Lords in that; and no doubt but another great addition of fame and honour, will thereby redound to His Majeſty. Speedy love and peace here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> will doe it, otherwiſe not: Let my Lord the King, and Parliament conſider, there is now ready in the North a great Army, and preparation for other force here in the South, if they claſh, they cannot long con<g ref="char:EOLhyphen"/>tinue, but as was well obſerved, by an Honourable perſon in this Kingdome, that the one muſt ſuddenly ruine the other, or both deſtroy the Kingdome: If King and people joyne here in peace, the coſt of thoſe preparations need not be loſt, for God hath
+<pb facs="tcp:125534:8"/>given us an opportunity to turne the points of our Swords another way, I meane toward <hi>Ireland,</hi> the ſafety whereof much concernes all His Majeſties o<g ref="char:EOLhyphen"/>ther Kingdomes. There is juſt cauſe of revenge for the blood of ſo many poore Chriſtian Proteſtants of this our Engliſh Nation, ſpilt by thoſe barbarous and cruell Rebels, whoſe ſavage cruelties cannot be paralleld; So may my Lord the King perfect that worke there which his Noble Progenitors left un<g ref="char:EOLhyphen"/>perfect, that is, to root out that hollow-hearted peo<g ref="char:EOLhyphen"/>ple, the popiſh Iriſh (who as long as they adheare to the Popes ſupremacy, can never be loyall ſubjects to their King) and plant good men there, that truly fear God, who may ſerve his Majeſty with all fidelity and obedience in times of peace, and valourouſly in time of warre, as his loyall Subjects the Engliſh have done and ever will doe to the worlds end. And ſo God ſave the King and Parliament.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125534:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
